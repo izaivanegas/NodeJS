@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izaivanegas/NodeJS.git"
+  },
+  "author": "Izai Vanegas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/izaivanegas/NodeJS/issues"
+  },
+  "homepage": "https://github.com/izaivanegas/NodeJS#readme",
+  "packageManager": "npm@8.3.1",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "helmet": "^8.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
